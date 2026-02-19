@@ -4,7 +4,8 @@ description: Evaluate any communication to identify where visual demonstration c
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.5282
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
 - visual-communication-audit
